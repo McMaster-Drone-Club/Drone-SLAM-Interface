@@ -1,0 +1,8 @@
+build/
+install/
+log/
+*.pyc
+__pycache__/
+
+snapshot_numeric.txt
+snapshot_visual.txt
