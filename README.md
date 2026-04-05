@@ -1,4 +1,4 @@
-# Drone SLAM Interface
+# Drone SLAM Interface 
 
 A ROS 2 Humble simulation stack for 2D LiDAR SLAM on a quadrotor drone, with a clean Python interface for navigation algorithm development. Built on top of [sjtu_drone](https://github.com/NovoG93/sjtu_drone) and [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox).
 
